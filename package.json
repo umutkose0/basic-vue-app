@@ -11,7 +11,9 @@
     "axios": "^0.27.2",
     "tone": "^14.7.77",
     "vue": "^3.2.37",
-    "vue-axios": "^3.4.1"
+    "vue-axios": "^3.4.1",
+    "@vitejs/plugin-vue": "^3.0.1",
+    "vite": "^3.0.4"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^3.0.1",
