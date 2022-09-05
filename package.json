@@ -1,6 +1,9 @@
 {
   "name": "vue-api-ui",
   "version": "0.0.0",
+  "engine":{
+    "node":"16.x"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
