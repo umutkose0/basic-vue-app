@@ -5,7 +5,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview --port 4173",
-    "start":"npx vite build"
+    "start":"vite build"
   },
   "dependencies": {
     "axios": "^0.27.2",
