@@ -1,0 +1,20 @@
+{
+  "name": "vue-api-ui",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 4173",
+    "start":"npx vite build"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "tone": "^14.7.77",
+    "vue": "^3.2.37",
+    "vue-axios": "^3.4.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.0.1",
+    "vite": "^3.0.4"
+  }
+}
